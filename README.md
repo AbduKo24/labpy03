@@ -14,7 +14,6 @@ for i in range(1, n + 1):
     # Menampilkan data ke-i dan nilai bilangan acak
     print(f"data ke: {i} => {bilangan_acak}")
     print("Selesai")
-
 # Output
 Masukkan nilai N: 7
 data ke: 1 => 3.958239291509731
