@@ -1,9 +1,8 @@
-# labpy03
-
 # Latihan 1
-# Meminta pengguna memasukkan nilai n
+```python
 import random
 
+# Meminta pengguna memasukkan nilai n
 n = int(input("Masukkan nilai N: "))
 
 # Looping untuk menghasilkan n bilangan acak
